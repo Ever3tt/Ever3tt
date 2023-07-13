@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ever3tt, my name is Sebastian Prada, I am from Bogota, Colombia and I'm studying for being a software developer.
-- 👀 I’m interested in growing up every day.
+- 👋 Hi, I am @Ever3tt, my name is Sebastian Prada, I am from Bogota, Colombia and I'm studying for being a software developer.
+- 👀 I am interested in growing daily in my career.
 - 🌱 I’m currently learning git and github ...
 - 📫 You can contact me at sebastian.jurado@edunext.co
